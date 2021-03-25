@@ -4,5 +4,6 @@ I'm an Android Engineer who works remotely from Argentina 🇦🇷. I enjoy cont
 
 - 🐦 Get in touch with me on Twitter [@facundomr](https://twitter.com/facundomr)
 - 💬 My public talks are available at <a href="https://speakerdeck.com/facundomr/"> Speaker Deck</a> 🏓
+- 🎙 Podcasting at <a href="https://anchor.fm/codigocomentado">Código Comentado</a>
 - 👨‍💻 Sharing updates on <a href="https://www.linkedin.com/in/facundomr/">LinkedIn</a> 💼
 - 😄 Pronouns: He/Him
